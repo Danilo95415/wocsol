@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256">
+<path style="fill:#24e8a8; stroke:none;" d="M0 0L0 80L45 80L45 227L69 227L69 207L65 207L65 127L69 127L69 107L65 107L65 80L69 80L69 60L20 60L20 20L69 20L69 0L0 0z"/>
+<path style="fill:#1bd5be; stroke:none;" d="M69 0L69 20L95 20L95 60L69 60L69 80L115 80L115 0L69 0z"/>
+<path style="fill:#ffffff; stroke:none;" d="M115 0L115 80L65 80L65 107L141 107L141 76L256 76L256 0L115 0M20 20L20 60L95 60L95 20L20 20z"/>
+<path style="fill:#10bed8; stroke:none;" d="M141 76L141 107L128 107L128 127L141 127L141 156L199 156L199 136L161 136L161 96L199 96L199 76L141 76z"/>
+<path style="fill:#05a7f4; stroke:none;" d="M199 76L199 96L236 96L236 136L199 136L199 156L256 156L256 76L199 76z"/>
+<path style="fill:#ffffff; stroke:none;" d="M0 80L0 256L141 256L141 227L45 227L45 80L0 80M161 96L161 136L236 136L236 96L161 96z"/>
+<path style="fill:#1bd5be; stroke:none;" d="M69 107L69 127L128 127L128 107L69 107z"/>
+<path style="fill:#ffffff; stroke:none;" d="M65 127L65 207L141 207L141 176L256 176L256 156L141 156L141 127L65 127z"/>
+<path style="fill:#10bed8; stroke:none;" d="M141 176L141 207L128 207L128 227L141 227L141 256L199 256L199 236L161 236L161 196L199 196L199 176L141 176z"/>
+<path style="fill:#05a7f4; stroke:none;" d="M199 176L199 196L236 196L236 236L199 236L199 256L256 256L256 176L199 176z"/>
+<path style="fill:#ffffff; stroke:none;" d="M161 196L161 236L236 236L236 196L161 196z"/>
+<path style="fill:#1bd5be; stroke:none;" d="M69 207L69 227L128 227L128 207L69 207z"/>
+</svg>
